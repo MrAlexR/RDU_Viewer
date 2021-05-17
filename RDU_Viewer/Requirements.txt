@@ -1,6 +1,0 @@
-Libs:
--PSutil
--GPutil
-Software:
--OpenHardwareMonitor
-Everything in the resources folder
