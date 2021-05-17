@@ -1,0 +1,8 @@
+Libs:
+-PSutil
+-GPutil
+-wim
+-pythoncom
+Software:
+-OpenHardwareMonitor
+Everything in the resources folder

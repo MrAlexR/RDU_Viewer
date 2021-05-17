@@ -1,0 +1,4 @@
+* Registrul de temperaturi ridicate *
+ *Data*    *Ora*      *Temperatura*
+10/05/2021 03:17:08 : 40
+10/05/2021 03:17:11 : 40
